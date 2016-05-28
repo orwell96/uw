@@ -1,4 +1,8 @@
+This mod adds an underworld at below -5000 to -8000, featuring large caves from paramat's subterrain, rack and portals(improved by me) from PilzAdam and some 'fortresses' which have been derived from Joz's railcorridors.
 
+The different readme's contain information about the different parts this mod is made of.
+
+--------------------
 uw: Mod for Minetest 0.4.13 (former 'nether' by PilzAdam)
 
 This is a rewrite of PilzAdam's nether mod:
